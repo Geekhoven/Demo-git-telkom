@@ -1,2 +1,2 @@
 # demo-git-telkom
-this is a demo from a workshop in telkom university about c++'s data structures and git
+Data stucture and git workshop from tel-u
